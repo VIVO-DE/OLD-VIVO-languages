@@ -9,7 +9,7 @@
 <http://purl.org/ontology/bibo/Collection> <http://www.w3.org/2000/01/rdf-schema#label> "Sammlung"@de-DE .
 <http://purl.org/ontology/bibo/Film> <http://www.w3.org/2000/01/rdf-schema#label> "Film"@de-DE .
 <http://purl.org/ontology/bibo/AudioVisualDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Audio-Visuelles Dokument"@de-DE .
-<http://vivoweb.org/ontology/core#ClinicalRole> <http://www.w3.org/2000/01/rdf-schema#label> "klinische Rolle"@de-DE .
+<http://vivoweb.org/ontology/core#ClinicalRole> <http://www.w3.org/2000/01/rdf-schema#label> "klinische Position"@de-DE .
 <http://purl.org/ontology/bibo/numPages> <http://www.w3.org/2000/01/rdf-schema#label> "Seitenzahl"@de-DE .
 <http://vivoweb.org/ontology/core#iclCode> <http://www.w3.org/2000/01/rdf-schema#label> "International Classification (ICL) Code"@de-DE .
 <http://purl.org/ontology/bibo/Book> <http://www.w3.org/2000/01/rdf-schema#label> "Buch"@de-DE .
@@ -70,7 +70,7 @@
 <http://vivoweb.org/ontology/core#hasFundingVehicle> <http://www.w3.org/2000/01/rdf-schema#label> "finanzielle Förderung über"@de-DE .
 <http://vivoweb.org/ontology/core#scopusId> <http://www.w3.org/2000/01/rdf-schema#label> "Scopus-ID"@de-DE .
 <http://vivoweb.org/ontology/core#offeredBy> <http://www.w3.org/2000/01/rdf-schema#label> "angeboten von"@de-DE .
-<http://vivoweb.org/ontology/core#assigns> <http://www.w3.org/2000/01/rdf-schema#label> "beauftragt"@de-DE .
+<http://vivoweb.org/ontology/core#assigns> <http://www.w3.org/2000/01/rdf-schema#label> "teilt zu"@de-DE .
 <http://vivoweb.org/ontology/core#degreeCandidacy> <http://www.w3.org/2000/01/rdf-schema#label> "BachelorandIn/ MasterandIn/ DoktorandIn"@de-DE .
 <http://vivoweb.org/ontology/core#hasResearchArea> <http://www.w3.org/2000/01/rdf-schema#label> "Forschungsgebiete"@de-DE .
 <http://vivoweb.org/ontology/core#NewsRelease> <http://www.w3.org/2000/01/rdf-schema#label> "Presseerklärung"@de-DE .
@@ -100,7 +100,7 @@
 <http://purl.org/ontology/bibo/cites> <http://www.w3.org/2000/01/rdf-schema#label> "zitiert"@de-DE .
 <http://purl.org/ontology/bibo/pageEnd> <http://www.w3.org/2000/01/rdf-schema#label> "letzte Seite"@de-DE .
 <http://vivoweb.org/ontology/core#hasEquipment> <http://www.w3.org/2000/01/rdf-schema#label> "hat Equipment"@de-DE .
-<http://vivoweb.org/ontology/core#localAwardId> <http://www.w3.org/2000/01/rdf-schema#label> "lokale Auszeichnungs-ID"@de-DE .
+<http://vivoweb.org/ontology/core#localAwardId> <http://www.w3.org/2000/01/rdf-schema#label> "ID für die Auszeichnung"@de-DE .
 <http://vivoweb.org/ontology/core#Room> <http://www.w3.org/2000/01/rdf-schema#label> "Raum"@de-DE .
 <http://purl.org/ontology/bibo/draft> <http://www.w3.org/2000/01/rdf-schema#label> "Entwurf"@de-DE .
 <http://purl.org/ontology/bibo/CourtReporter> <http://www.w3.org/2000/01/rdf-schema#label> "ProtokollführerIn"@de-DE .
@@ -113,7 +113,7 @@
 <http://vivoweb.org/ontology/core#Authorship> <http://www.w3.org/2000/01/rdf-schema#label> "Autorenschaft"@de-DE .
 <http://vivoweb.org/ontology/core#Competition> <http://www.w3.org/2000/01/rdf-schema#label> "Wettbewerb"@de-DE .
 <http://purl.org/dc/terms/relation> <http://www.w3.org/2000/01/rdf-schema#label> "Beziehung"@de-DE .
-<http://vivoweb.org/ontology/core#AcademicYear> <http://www.w3.org/2000/01/rdf-schema#label> "akademisches Jahr"@de-DE .
+<http://vivoweb.org/ontology/core#AcademicYear> <http://www.w3.org/2000/01/rdf-schema#label> "Studienjahr"@de-DE .
 <http://purl.org/ontology/bibo/recipient> <http://www.w3.org/2000/01/rdf-schema#label> "EmpfängerIn"@de-DE .
 <http://vivoweb.org/ontology/core#teachingOverview> <http://www.w3.org/2000/01/rdf-schema#label> "Veranstaltungsübersicht"@de-DE .
 <http://vivoweb.org/ontology/core#GeographicRegion> <http://www.w3.org/2000/01/rdf-schema#label> "geografische Region"@de-DE .
@@ -189,7 +189,7 @@
 <http://vivoweb.org/ontology/core#freetextKeyword> <http://www.w3.org/2000/01/rdf-schema#label> "Schlagwörter"@de-DE .
 <http://purl.org/ontology/bibo/rejected> <http://www.w3.org/2000/01/rdf-schema#label> "abgelehnt"@de-DE .
 <http://purl.org/ontology/bibo/issn> <http://www.w3.org/2000/01/rdf-schema#label> "International Standard Serial Number (ISSN )"@de-DE .
-<http://vivoweb.org/ontology/core#hasAssociatedConcept> <http://www.w3.org/2000/01/rdf-schema#label> "zugeordneter Begriff"@de-DE .
+<http://vivoweb.org/ontology/core#hasAssociatedConcept> <http://www.w3.org/2000/01/rdf-schema#label> "assoziierter Begriff"@de-DE .
 <http://vivoweb.org/ontology/core#yearPrecision> <http://www.w3.org/2000/01/rdf-schema#label> "Jahr Wert"@de-DE.
 <http://vivoweb.org/ontology/core#Continent> <http://www.w3.org/2000/01/rdf-schema#label> "Kontinent"@de-DE .
 <http://vivoweb.org/ontology/core#ResearchProposal> <http://www.w3.org/2000/01/rdf-schema#label> "Forschungsantrag"@de-DE .
@@ -206,10 +206,10 @@
 <http://vivoweb.org/ontology/core#Campus> <http://www.w3.org/2000/01/rdf-schema#label> "Campus"@de-DE .
 <http://vivoweb.org/ontology/core#Center> <http://www.w3.org/2000/01/rdf-schema#label> "Zentrum"@de-DE .
 <http://vivoweb.org/ontology/core#Abstract> <http://www.w3.org/2000/01/rdf-schema#label> "Abstract"@de-DE .
-<http://vivoweb.org/ontology/core#affiliatedOrganization> <http://www.w3.org/2000/01/rdf-schema#label> "hat eine Mitgliedsorganisation"@de-DE .
+<http://vivoweb.org/ontology/core#affiliatedOrganization> <http://www.w3.org/2000/01/rdf-schema#label> "Mitgliedsorganisation"@de-DE .
 <http://purl.org/ontology/bibo/distributor> <http://www.w3.org/2000/01/rdf-schema#label> "DistributorIn"@de-DE .
 <http://vivoweb.org/ontology/core#SubnationalRegion> <http://www.w3.org/2000/01/rdf-schema#label> "innerstaatliche Gebietskörperschaft"@de-DE .
-<http://vivoweb.org/ontology/core#Association> <http://www.w3.org/2000/01/rdf-schema#label> "Interessenverband"@de-DE .
+<http://vivoweb.org/ontology/core#Association> <http://www.w3.org/2000/01/rdf-schema#label> "Gesellschaft"@de-DE .
 <http://purl.org/ontology/bibo/Manuscript> <http://www.w3.org/2000/01/rdf-schema#label> "manuscript"@en-US , "Manuskript"@de-DE .
 <http://vivoweb.org/ontology/core#NonFacultyAcademicPosition> <http://www.w3.org/2000/01/rdf-schema#label> "wissenschaftliche/r MitarbeiterIn"@de-DE .
 <http://vivoweb.org/ontology/core#AttendingProcess> <http://www.w3.org/2000/01/rdf-schema#label> "Teilnahme"@de-DE .
@@ -239,7 +239,7 @@
 <http://vivoweb.org/ontology/core#hasTranslation> <http://www.w3.org/2000/01/rdf-schema#label> "hat Übersetzung"@de-DE .
 <http://vivoweb.org/ontology/core#subcontractsGrant> <http://www.w3.org/2000/01/rdf-schema#label> "Teil eines übergeordneten Forschungsprojektes"@de-DE .
 <http://vivoweb.org/ontology/core#Laboratory> <http://www.w3.org/2000/01/rdf-schema#label> "Labor"@de-DE .
-<http://vivoweb.org/ontology/core#AwardReceipt> <http://www.w3.org/2000/01/rdf-schema#label> "Auszeichnung oder Preis erhalten"@de-DE .
+<http://vivoweb.org/ontology/core#AwardReceipt> <http://www.w3.org/2000/01/rdf-schema#label> "Nachweis der Auszeichnung"@de-DE .
 <http://purl.org/ontology/bibo/Magazine> <http://www.w3.org/2000/01/rdf-schema#label> "Magazin"@de-DE .
 <http://vivoweb.org/ontology/core#ConferencePoster> <http://www.w3.org/2000/01/rdf-schema#label> "Konferenz-Poster"@de-DE .
 <http://purl.org/ontology/bibo/Brief> <http://www.w3.org/2000/01/rdf-schema#label> "Kurzdarstellung"@de-DE .
@@ -313,8 +313,8 @@
 <http://vivoweb.org/ontology/core#LeaderRole> <http://www.w3.org/2000/01/rdf-schema#label> "Führungsrolle"@de-DE .
 <http://purl.org/ontology/bibo/shortDescription> <http://www.w3.org/2000/01/rdf-schema#label> "Kurzbeschreibung"@de-DE .
 <http://purl.org/ontology/bibo/edition> <http://www.w3.org/2000/01/rdf-schema#label> "Ausgabe"@de-DE .
-<http://vivoweb.org/ontology/core#sponsorAwardId> <http://www.w3.org/2000/01/rdf-schema#label> "ID für den Sponsor des Preises"@de-DE .
-<http://vivoweb.org/ontology/core#AdvisingRelationship> <http://www.w3.org/2000/01/rdf-schema#label> "Advising Relationship"@de-DE .
+<http://vivoweb.org/ontology/core#sponsorAwardId> <http://www.w3.org/2000/01/rdf-schema#label> "ID für den Sponsor der Auszeichnung"@de-DE .
+<http://vivoweb.org/ontology/core#AdvisingRelationship> <http://www.w3.org/2000/01/rdf-schema#label> "Betreuungsverhältnis"@de-DE .
 <http://purl.org/ontology/bibo/DocumentPart> <http://www.w3.org/2000/01/rdf-schema#label> "Teil eines Dokumentes"@de-DE .
 <http://vivoweb.org/ontology/core#PrincipalInvestigatorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle der Projektleitung"@de-DE .
 <http://vivoweb.org/ontology/core#College> <http://www.w3.org/2000/01/rdf-schema#label> "College"@de-DE .
@@ -328,7 +328,7 @@
 <http://vivoweb.org/ontology/core#orcidId> <http://www.w3.org/2000/01/rdf-schema#label> "ORCID iD"@de-DE .
 <http://vivoweb.org/ontology/core#AcademicTerm> <http://www.w3.org/2000/01/rdf-schema#label> "Semester"@de-DE .
 <http://purl.org/ontology/bibo/number> <http://www.w3.org/2000/01/rdf-schema#label> "Nummer"@de-DE .
-<http://vivoweb.org/ontology/core#AdvisorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des Beratenden"@de-DE .
+<http://vivoweb.org/ontology/core#AdvisorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des Betreuenden / der Betreuenden"@de-DE .
 <http://vivoweb.org/ontology/core#Presentation> <http://www.w3.org/2000/01/rdf-schema#label> "Präsentation"@de-DE .
 <http://vivoweb.org/ontology/core#ReviewerRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle der Gutachterin/ des Gutachters"@de-DE .
 <http://purl.org/ontology/bibo/affirmedBy> <http://www.w3.org/2000/01/rdf-schema#label> "bestätigt von"@de-DE .
@@ -351,7 +351,7 @@
 <http://vivoweb.org/ontology/core#UndergraduateAdvisingRelationship> <http://www.w3.org/2000/01/rdf-schema#label> "Undergraduate Advising Relationship"@de-DE .
 <http://vivoweb.org/ontology/core#UndergraduateStudent> <http://www.w3.org/2000/01/rdf-schema#label> "Studierender im Bachelorstudium"@de-DE .
 <http://vivoweb.org/ontology/core#University> <http://www.w3.org/2000/01/rdf-schema#label> "Universary"@de-DE .
-<http://vivoweb.org/ontology/core#assignee> <http://www.w3.org/2000/01/rdf-schema#label> "Bevollmächtigte/ Bevollmächtigter"@de-DE .
+<http://vivoweb.org/ontology/core#assignee> <http://www.w3.org/2000/01/rdf-schema#label> "AnmelderIn"@de-DE .
 <http://vivoweb.org/ontology/core#courseCredits> <http://www.w3.org/2000/01/rdf-schema#label> "Credits"@de-DE .
 <http://vivoweb.org/ontology/core#validIn> <http://www.w3.org/2000/01/rdf-schema#label> "gültig innerhalb"@de-DE .
 <http://vivoweb.org/ontology/core#yearMonthDayPrecision> <http://www.w3.org/2000/01/rdf-schema#label> "Jahr-Monat-Tag Wert"@de-DE .
@@ -372,13 +372,13 @@
 <http://vivoweb.org/ontology/core#publisherOf> <http://www.w3.org/2000/01/rdf-schema#label> "HerausgeberIn von"@de-DE .
 <http://purl.org/ontology/bibo/Document> <http://www.w3.org/2000/01/rdf-schema#label> "Dokument"@de-DE .
 <http://purl.org/ontology/bibo/doi> <http://www.w3.org/2000/01/rdf-schema#label> "Digital Object Identifier (DOI)"@de-DE .
-<http://purl.org/ontology/bibo/Bill> <http://www.w3.org/2000/01/rdf-schema#label> "Entwurf"@de-DE .
+<http://purl.org/ontology/bibo/Bill> <http://www.w3.org/2000/01/rdf-schema#label> "Gesetzesentwurf"@de-DE .
 <http://vivoweb.org/ontology/core#dateTimeInterval> <http://www.w3.org/2000/01/rdf-schema#label> "Datum/Uhrzeit-Intervall"@de-DE .
 <http://vivoweb.org/ontology/core#end> <http://www.w3.org/2000/01/rdf-schema#label> "Ende"@de-DE .
 <http://vivoweb.org/ontology/core#researcherId> <http://www.w3.org/2000/01/rdf-schema#label> "ISI Researcher ID"@de-DE .
 <http://vivoweb.org/ontology/core#sponsors> <http://www.w3.org/2000/01/rdf-schema#label> "Auszeichnung oder Preis der Sponsoren"@de-DE .
 <http://purl.org/ontology/bibo/upc> <http://www.w3.org/2000/01/rdf-schema#label> "Universal Product Code (UPC)"@de-DE .
 <http://vivoweb.org/ontology/core#Licensure> <http://www.w3.org/2000/01/rdf-schema#label> "Approbation"@de-DE .
-<http://vivoweb.org/ontology/core#Certification> <http://www.w3.org/2000/01/rdf-schema#label> "Beurkundung"@de-DE .
+<http://vivoweb.org/ontology/core#Certification> <http://www.w3.org/2000/01/rdf-schema#label> "Bescheinigung"@de-DE .
 <http://purl.org/ontology/bibo/eissn> <http://www.w3.org/2000/01/rdf-schema#label> "Electronic International Standard Serial Number ( EISSN )"@de-DE .
 <http://vivoweb.org/ontology/core#ResearchOrganization> <http://www.w3.org/2000/01/rdf-schema#label> "Forschungsorganisation"@de-DE .
