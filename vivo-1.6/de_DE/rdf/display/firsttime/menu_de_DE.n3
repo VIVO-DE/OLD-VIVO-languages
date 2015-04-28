@@ -18,3 +18,4 @@ display:pageListPage display:title "Seiten"@de-DE .
 <java:edu.cornell.mannlib.vitro.webapp.utils.dataGetter.ClassGroupPageData> <http://www.w3.org/2000/01/rdf-schema#label> "Group Class Page"@de-DE .
 <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#DefaultMenu> <http://www.w3.org/2000/01/rdf-schema#label> "Standardmenü"@de-DE .
 <java:edu.cornell.mannlib.vitro.webapp.utils.dataGetter.IndividualsForClassesDataGetter> <http://www.w3.org/2000/01/rdf-schema#label> "Group Page Group - selected classes"@de-DE .
+
