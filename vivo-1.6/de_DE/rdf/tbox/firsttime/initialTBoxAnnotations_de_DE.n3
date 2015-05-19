@@ -27,7 +27,7 @@
 <http://vivoweb.org/ontology/core#prerequisiteFor> <http://www.w3.org/2000/01/rdf-schema#label> "Voraussetzung für"@de-DE .
 <http://vivoweb.org/ontology/core#WorkshopSeries> <http://www.w3.org/2000/01/rdf-schema#label> "Workshop-Reihe"@de-DE .
 <http://vivoweb.org/ontology/core#supportedBy> <http://www.w3.org/2000/01/rdf-schema#label> "unterstützt von"@de-DE .
-<http://vivoweb.org/ontology/core#Department> <http://www.w3.org/2000/01/rdf-schema#label> "Fachbereich"@de-DE .
+<http://vivoweb.org/ontology/core#Department> <http://www.w3.org/2000/01/rdf-schema#label> "Abteilung"@de-DE .
 <http://vivoweb.org/ontology/core#Museum> <http://www.w3.org/2000/01/rdf-schema#label> "Museum"@de-DE .
 <http://vivoweb.org/ontology/core#features> <http://www.w3.org/2000/01/rdf-schema#label> "Funktionen"@de-DE .
 <http://purl.org/ontology/bibo/PersonalCommunicationDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Personal Communication Document"@de-DE .
@@ -92,7 +92,7 @@
 <http://vivoweb.org/ontology/core#contributingRole> <http://www.w3.org/2000/01/rdf-schema#label> "beitragende Person"@de-DE .
 <http://purl.org/ontology/bibo/sici> <http://www.w3.org/2000/01/rdf-schema#label> "Serial Item and Contribution Identifier (SICI)"@de-DE .
 <http://vivoweb.org/ontology/core#NonAcademic> <http://www.w3.org/2000/01/rdf-schema#label> "nicht-wissenschaftlich"@de-DE .
-<http://vivoweb.org/ontology/core#departmentOrSchool> <http://www.w3.org/2000/01/rdf-schema#label> "Name des Fachbereichs oder der Schule innerhalb der Institution"@de-DE .
+<http://vivoweb.org/ontology/core#departmentOrSchool> <http://www.w3.org/2000/01/rdf-schema#label> "Name der Abteilung oder der Schule innerhalb der Institution"@de-DE .
 <http://vivoweb.org/ontology/core#CoreLaboratory> <http://www.w3.org/2000/01/rdf-schema#label> "Labor"@de-DE .
 <http://purl.org/ontology/bibo/degree> <http://www.w3.org/2000/01/rdf-schema#label> "Abschluss"@de-DE .
 <http://vivoweb.org/ontology/core#relatedBy> <http://www.w3.org/2000/01/rdf-schema#label> "Grund der Verwandtschaft"@de-DE .
