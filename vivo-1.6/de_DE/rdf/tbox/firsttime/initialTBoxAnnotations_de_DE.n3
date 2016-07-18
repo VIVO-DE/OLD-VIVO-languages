@@ -666,7 +666,7 @@
 <http://purl.obolibrary.org/obo/ARG_2000400> <http://www.w3.org/2000/01/rdf-schema#label> "Zählung pro Jahr"@de-DE .
 <http://purl.obolibrary.org/obo/ERO_0001518> <http://www.w3.org/2000/01/rdf-schema#label> "hat Phase"@de-DE .
 <http://purl.obolibrary.org/obo/ARG_2000376> <http://www.w3.org/2000/01/rdf-schema#label> "Kennzeichnung des Kontaktes"@de-DE .
-<http://www.w3.org/2006/vcard/ns#hasLanguage> <http://www.w3.org/2000/01/rdf-schema#label> "ist in der Sprache"@de-DE .
+<http://www.w3.org/2006/vcard/ns#hasLanguage> <http://www.w3.org/2000/01/rdf-schema#label> "Sprache"@de-DE .
 <http://www.w3.org/2006/vcard/ns#hasURL> <http://www.w3.org/2000/01/rdf-schema#label> "hat URL"@de-DE .
 <http://purl.obolibrary.org/obo/ERO_0000482> <http://www.w3.org/2000/01/rdf-schema#label> "nutzt Software"@de-DE .
 <http://aims.fao.org/aos/geopolitical.owl#nameShortIT> <http://www.w3.org/2000/01/rdf-schema#label> "Kurzname in Italienisch"@de-DE .
