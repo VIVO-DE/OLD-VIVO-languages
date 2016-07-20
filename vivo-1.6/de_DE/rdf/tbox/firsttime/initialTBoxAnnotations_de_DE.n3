@@ -79,7 +79,7 @@
 <http://vivoweb.org/ontology/core#hasSuccessorOrganization> <http://www.w3.org/2000/01/rdf-schema#label> "Nachfolgeorganisation"@de-DE .
 <http://purl.org/ontology/bibo/Report> <http://www.w3.org/2000/01/rdf-schema#label> "Report"@de-DE .
 <http://vivoweb.org/ontology/core#AwardedDegree> <http://www.w3.org/2000/01/rdf-schema#label> "Erreichter Abschluss"@de-DE .
-<http://purl.org/ontology/bibo/isbn13> <http://www.w3.org/2000/01/rdf-schema#label> "International Standard Book Number (ISBN ) 13"@de-DE .
+<http://purl.org/ontology/bibo/isbn13> <http://www.w3.org/2000/01/rdf-schema#label> "Internationale Standardbuchnummer (ISBN) 13"@de-DE .
 <http://vivoweb.org/ontology/core#Location> <http://www.w3.org/2000/01/rdf-schema#label> "Ort"@de-DE .
 <http://vivoweb.org/ontology/core#seatingCapacity> <http://www.w3.org/2000/01/rdf-schema#label> "Sitzplatzkapazität"@de-DE .
 <http://purl.org/ontology/bibo/DocumentStatus> <http://www.w3.org/2000/01/rdf-schema#label> "Dokumentenstatus"@de-DE .
@@ -181,7 +181,7 @@
 <http://purl.org/ontology/bibo/Note> <http://www.w3.org/2000/01/rdf-schema#label> "Kommentar"@de-DE .
 <http://vivoweb.org/ontology/core#AdministratorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle der/der AdministratorIn"@de-DE .
 <http://vivoweb.org/ontology/core#FacultyPosition> <http://www.w3.org/2000/01/rdf-schema#label> "Lehrpersonal"@de-DE .
-<http://purl.org/ontology/bibo/isbn10> <http://www.w3.org/2000/01/rdf-schema#label> "International Standard Book Number (ISBN ) 10"@de-DE .
+<http://purl.org/ontology/bibo/isbn10> <http://www.w3.org/2000/01/rdf-schema#label> "Internationale Standardbuchnummer (ISBN) 10"@de-DE .
 <http://purl.org/ontology/bibo/eanucc13> <http://www.w3.org/2000/01/rdf-schema#label> "EAN International- Uniform Code Council (EAN- UCC) 13"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/public> <http://www.w3.org/2000/01/rdf-schema#label> "Vitro Public Ontology"@de-DE .
 <http://vivoweb.org/ontology/core#Building> <http://www.w3.org/2000/01/rdf-schema#label> "Gebäude"@de-DE .
