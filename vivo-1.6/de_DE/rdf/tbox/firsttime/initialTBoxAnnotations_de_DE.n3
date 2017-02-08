@@ -23,7 +23,7 @@
 <http://vivoweb.org/ontology/core#DateTimeInterval> <http://www.w3.org/2000/01/rdf-schema#label> "Datum/Uhrzeit-Intervall"@de-DE .
 <http://vivoweb.org/ontology/core#Screenplay> <http://www.w3.org/2000/01/rdf-schema#label> "Schauspiel/Bühnenstück"@de-DE .
 <http://purl.org/ontology/bibo/performer> <http://www.w3.org/2000/01/rdf-schema#label> "Ausführende"@de-DE .
-<http://vivoweb.org/ontology/core#Exhibit> <http://www.w3.org/2000/01/rdf-schema#label> "Exponat"@de-DE .
+<http://vivoweb.org/ontology/core#Exhibit> <http://www.w3.org/2000/01/rdf-schema#label> "Ausstellung"@de-DE .
 <http://vivoweb.org/ontology/core#prerequisiteFor> <http://www.w3.org/2000/01/rdf-schema#label> "Voraussetzung für"@de-DE .
 <http://vivoweb.org/ontology/core#WorkshopSeries> <http://www.w3.org/2000/01/rdf-schema#label> "Workshop-Reihe"@de-DE .
 <http://vivoweb.org/ontology/core#supportedBy> <http://www.w3.org/2000/01/rdf-schema#label> "unterstützt von"@de-DE .
@@ -45,7 +45,7 @@
 <http://vivoweb.org/ontology/core#Database> <http://www.w3.org/2000/01/rdf-schema#label> "Datenbank"@de-DE .
 <http://vivoweb.org/ontology/core#publicationVenueFor> <http://www.w3.org/2000/01/rdf-schema#label> "Erscheinungsort für"@de-DE .
 <http://vivoweb.org/ontology/core#Facility> <http://www.w3.org/2000/01/rdf-schema#label> "Einrichtung"@de-DE .
-<http://purl.org/ontology/bibo/Statute> <http://www.w3.org/2000/01/rdf-schema#label> "Statut"@de-DE .
+<http://purl.org/ontology/bibo/Statute> <http://www.w3.org/2000/01/rdf-schema#label> "Gesetz"@de-DE .
 <http://vivoweb.org/ontology/core#BlogPosting> <http://www.w3.org/2000/01/rdf-schema#label> "Weblog-Eintrag"@de-DE .
 <http://purl.org/ontology/bibo/Issue> <http://www.w3.org/2000/01/rdf-schema#label> "Ausgabe"@de-DE .
 <http://vivoweb.org/ontology/core#Student> <http://www.w3.org/2000/01/rdf-schema#label> "StudentIn"@de-DE .
@@ -95,8 +95,8 @@
 <http://vivoweb.org/ontology/core#departmentOrSchool> <http://www.w3.org/2000/01/rdf-schema#label> "Name der Abteilung innerhalb der Institution"@de-DE .
 <http://vivoweb.org/ontology/core#CoreLaboratory> <http://www.w3.org/2000/01/rdf-schema#label> "Haupt-Labor"@de-DE .
 <http://purl.org/ontology/bibo/degree> <http://www.w3.org/2000/01/rdf-schema#label> "Abschluss"@de-DE .
-<http://vivoweb.org/ontology/core#relatedBy> <http://www.w3.org/2000/01/rdf-schema#label> "Grund der Verwandtschaft"@de-DE .
-<http://purl.org/ontology/bibo/Chapter> <http://www.w3.org/2000/01/rdf-schema#label> "Kapitelnummer"@de-DE .
+<http://vivoweb.org/ontology/core#relatedBy> <http://www.w3.org/2000/01/rdf-schema#label> "Bezug zu"@de-DE .
+<http://purl.org/ontology/bibo/Chapter> <http://www.w3.org/2000/01/rdf-schema#label> "Kapitel"@de-DE .
 <http://purl.org/ontology/bibo/cites> <http://www.w3.org/2000/01/rdf-schema#label> "zitiert"@de-DE .
 <http://purl.org/ontology/bibo/pageEnd> <http://www.w3.org/2000/01/rdf-schema#label> "letzte Seite"@de-DE .
 <http://vivoweb.org/ontology/core#hasEquipment> <http://www.w3.org/2000/01/rdf-schema#label> "hat Equipment"@de-DE .
@@ -135,7 +135,7 @@
 <http://vivoweb.org/ontology/core#description> <http://www.w3.org/2000/01/rdf-schema#label> "Beschreibung"@de-DE .
 <http://vivoweb.org/ontology/core#distributesFundingFrom> <http://www.w3.org/2000/01/rdf-schema#label> "verteilt die Fördermittel von"@de-DE .
 <http://purl.org/ontology/bibo/prefixName> <http://www.w3.org/2000/01/rdf-schema#label> "Namenspräfix"@de-DE .
-<http://vivoweb.org/ontology/core#School> <http://www.w3.org/2000/01/rdf-schema#label> "Schule"@de-DE .
+<http://vivoweb.org/ontology/core#School> <http://www.w3.org/2000/01/rdf-schema#label> "School (us)"@de-DE .
 <http://purl.org/ontology/bibo/Journal> <http://www.w3.org/2000/01/rdf-schema#label> "Zeitschrift"@de-DE .
 <http://vivoweb.org/ontology/core#LibrarianPosition> <http://www.w3.org/2000/01/rdf-schema#label> "Bibliothekarische Position"@de-DE .
 <http://vivoweb.org/ontology/core#dateIssued> <http://www.w3.org/2000/01/rdf-schema#label> "Ausstellungsdatum"@de-DE .
@@ -275,7 +275,7 @@
 <http://vivoweb.org/ontology/core#PresenterRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle als Vortragende(r)"@de-DE .
 <http://vivoweb.org/ontology/core#Relationship> <http://www.w3.org/2000/01/rdf-schema#label> "Beziehung"@de-DE .
 <http://vivoweb.org/ontology/core#StateOrProvince> <http://www.w3.org/2000/01/rdf-schema#label> "Land oder Bundesland"@de-DE .
-<http://vivoweb.org/ontology/core#dateFiled> <http://www.w3.org/2000/01/rdf-schema#label> "Ablagedatum"@de-DE .
+<http://vivoweb.org/ontology/core#dateFiled> <http://www.w3.org/2000/01/rdf-schema#label> "Anmeldedatum"@de-DE .
 <http://purl.org/ontology/bibo/Standard> <http://www.w3.org/2000/01/rdf-schema#label> "Standard"@de-DE .
 <http://purl.org/ontology/bibo/Series> <http://www.w3.org/2000/01/rdf-schema#label> "Reihe"@de-DE .
 <http://purl.org/ontology/bibo/coden> <http://www.w3.org/2000/01/rdf-schema#label> "CODEN"@de-DE .
