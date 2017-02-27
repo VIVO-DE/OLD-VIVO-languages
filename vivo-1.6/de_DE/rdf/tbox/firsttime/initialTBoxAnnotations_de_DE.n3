@@ -196,7 +196,7 @@
 <http://vivoweb.org/ontology/core#preferredDisplayOrder> <http://www.w3.org/2000/01/rdf-schema#label> "bevorzugte Anzeigesortierung"@de-DE .
 <http://vivoweb.org/ontology/core#Speech> <http://www.w3.org/2000/01/rdf-schema#label> "Vortrag"@de-DE .
 <http://vivoweb.org/ontology/core#contactInformation> <http://www.w3.org/2000/01/rdf-schema#label> "Kontaktinformationen"@de-DE .
-<http://vivoweb.org/ontology/core#Division> <http://www.w3.org/2000/01/rdf-schema#label> "Abteilung"@de-DE .
+<http://vivoweb.org/ontology/core#Division> <http://www.w3.org/2000/01/rdf-schema#label> "Bereich"@de-DE .
 <http://purl.org/ontology/bibo/director> <http://www.w3.org/2000/01/rdf-schema#label> "DirektorIn"@de-DE .
 <http://purl.org/ontology/bibo/Patent> <http://www.w3.org/2000/01/rdf-schema#label> "Patent"@de-DE .
 <http://vivoweb.org/ontology/core#hasPrerequisite> <http://www.w3.org/2000/01/rdf-schema#label> "mit Voraussetzung"@de-DE .
