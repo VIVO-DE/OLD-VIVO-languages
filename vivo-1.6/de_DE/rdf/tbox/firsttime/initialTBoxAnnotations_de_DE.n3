@@ -219,7 +219,7 @@
 <http://vivoweb.org/ontology/core#PeerReviewerRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des/der GutachterIn"@de-DE .
 <http://vivoweb.org/ontology/core#patentNumber> <http://www.w3.org/2000/01/rdf-schema#label> "Patentnummer"@de-DE .
 <http://purl.org/ontology/bibo/AudioDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Tondokument"@de-DE .
-<http://purl.org/ontology/bibo/chapter> <http://www.w3.org/2000/01/rdf-schema#label> "Kapitelnummer"@de-DE .
+<http://purl.org/ontology/bibo/chapter> <http://www.w3.org/2000/01/rdf-schema#label> "Kapitel"@de-DE .
 <http://vivoweb.org/ontology/core#InvitedTalk> <http://www.w3.org/2000/01/rdf-schema#label> "Gastvortrag"@de-DE .
 <http://purl.org/ontology/bibo/accepted> <http://www.w3.org/2000/01/rdf-schema#label> "angenommen"@de-DE .
 <http://vivoweb.org/ontology/core#Internship> <http://www.w3.org/2000/01/rdf-schema#label> "Praktikum"@de-DE .
