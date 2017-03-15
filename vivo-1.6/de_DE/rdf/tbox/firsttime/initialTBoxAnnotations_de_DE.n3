@@ -388,7 +388,7 @@
 <http://purl.org/spar/fabio/ClinicalGuideline> <http://www.w3.org/2000/01/rdf-schema#label> "Klinische Leitlinie"@de-DE .
 <http://purl.org/spar/fabio/Comment> <http://www.w3.org/2000/01/rdf-schema#label> "Kommentar"@de-DE .
 <http://purl.org/spar/fabio/Erratum> <http://www.w3.org/2000/01/rdf-schema#label> "Erratum"@de-DE .
-<http://purl.org/spar/c4o/GlobalCitationCount> <http://www.w3.org/2000/01/rdf-schema#label> "Weltweite Zitationszahl"@de-DE .
+<http://purl.org/spar/c4o/GlobalCitationCount> <http://www.w3.org/2000/01/rdf-schema#label> "Zitationen (Gesamt)"@de-DE .
 <http://purl.obolibrary.org/obo/ERO_0000015> <http://www.w3.org/2000/01/rdf-schema#label> "Studie am Menschen"@de-DE .
 <http://purl.obolibrary.org/obo/OBI_0100026> <http://www.w3.org/2000/01/rdf-schema#label> "Organismus"@de-DE .
 <http://vivoweb.org/ontology/scientific-research#Phase0ClinicalTrial> <http://www.w3.org/2000/01/rdf-schema#label> "Phase 0 der klinischen Studie"@de-DE .
