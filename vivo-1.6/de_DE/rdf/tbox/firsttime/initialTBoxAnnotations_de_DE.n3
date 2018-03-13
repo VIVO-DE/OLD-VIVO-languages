@@ -43,7 +43,7 @@
 <http://vivoweb.org/ontology/core#Institute> <http://www.w3.org/2000/01/rdf-schema#label> "Institut"@de-DE .
 <http://purl.org/ontology/bibo/court> <http://www.w3.org/2000/01/rdf-schema#label> "Gericht"@de-DE .
 <http://vivoweb.org/ontology/core#Database> <http://www.w3.org/2000/01/rdf-schema#label> "Datenbank"@de-DE .
-<http://vivoweb.org/ontology/core#publicationVenueFor> <http://www.w3.org/2000/01/rdf-schema#label> "Erscheinungsort für"@de-DE .
+<http://vivoweb.org/ontology/core#publicationVenueFor> <http://www.w3.org/2000/01/rdf-schema#label> "enthält"@de-DE .
 <http://vivoweb.org/ontology/core#Facility> <http://www.w3.org/2000/01/rdf-schema#label> "Einrichtung"@de-DE .
 <http://purl.org/ontology/bibo/Statute> <http://www.w3.org/2000/01/rdf-schema#label> "Gesetz"@de-DE .
 <http://vivoweb.org/ontology/core#BlogPosting> <http://www.w3.org/2000/01/rdf-schema#label> "Weblog-Eintrag"@de-DE .
@@ -60,7 +60,11 @@
 <http://vivoweb.org/ontology/core#fundingVehicleFor> <http://www.w3.org/2000/01/rdf-schema#label> "stellt Fördermittel zur Verfügung für"@de-DE .
 <http://vivoweb.org/ontology/core#GeopoliticalEntity> <http://www.w3.org/2000/01/rdf-schema#label> "Geopolitische Einheit"@de-DE .
 <http://purl.org/ontology/bibo/issue> <http://www.w3.org/2000/01/rdf-schema#label> "Heftnummer"@de-DE .
+<<<<<<< HEAD
 <http://purl.org/ontology/bibo/Proceedings> <http://www.w3.org/2000/01/rdf-schema#label> "Tagungsberichte"@de-DE .
+=======
+<http://purl.org/ontology/bibo/Proceedings> <http://www.w3.org/2000/01/rdf-schema#label> "Tagungsband"@de-DE .
+>>>>>>> origin/master
 <http://purl.org/ontology/bibo/Conference> <http://www.w3.org/2000/01/rdf-schema#label> "Konferenz"@de-DE .
 <http://vivoweb.org/ontology/core#hrJobTitle> <http://www.w3.org/2000/01/rdf-schema#label> "HR Berufsbezeichnung"@de-DE .
 <http://vivoweb.org/ontology/core#CaseStudy> <http://www.w3.org/2000/01/rdf-schema#label> "Fallstudie"@de-DE .
@@ -366,7 +370,7 @@
 <http://vivoweb.org/ontology/core#DateTimeValuePrecision> <http://www.w3.org/2000/01/rdf-schema#label> "Datum/Uhrzeit-Genauigkeit"@de-DE .
 <http://purl.org/ontology/bibo/lccn> <http://www.w3.org/2000/01/rdf-schema#label> "Library of Congress Control Number (LCCN)"@de-DE .
 <http://purl.org/ontology/bibo/Thesis> <http://www.w3.org/2000/01/rdf-schema#label> "Abschlussarbeit"@de-DE .
-<http://vivoweb.org/ontology/core#Score> <http://www.w3.org/2000/01/rdf-schema#label> "Bewertung"@de-DE .
+<http://vivoweb.org/ontology/core#Score> <http://www.w3.org/2000/01/rdf-schema#label> "Partitur"@de-DE .
 <http://vivoweb.org/ontology/core#abbreviation> <http://www.w3.org/2000/01/rdf-schema#label> "Abkürzung"@de-DE .
 <http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://www.w3.org/2000/01/rdf-schema#label> "Verwaltungsorgan"@de-DE .
 <http://vivoweb.org/ontology/core#publisherOf> <http://www.w3.org/2000/01/rdf-schema#label> "Verlag von"@de-DE .
