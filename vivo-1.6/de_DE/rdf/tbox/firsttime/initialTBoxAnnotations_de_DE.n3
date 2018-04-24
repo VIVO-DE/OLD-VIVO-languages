@@ -60,11 +60,7 @@
 <http://vivoweb.org/ontology/core#fundingVehicleFor> <http://www.w3.org/2000/01/rdf-schema#label> "stellt Fördermittel zur Verfügung für"@de-DE .
 <http://vivoweb.org/ontology/core#GeopoliticalEntity> <http://www.w3.org/2000/01/rdf-schema#label> "Geopolitische Einheit"@de-DE .
 <http://purl.org/ontology/bibo/issue> <http://www.w3.org/2000/01/rdf-schema#label> "Heftnummer"@de-DE .
-<<<<<<< HEAD
-<http://purl.org/ontology/bibo/Proceedings> <http://www.w3.org/2000/01/rdf-schema#label> "Tagungsberichte"@de-DE .
-=======
 <http://purl.org/ontology/bibo/Proceedings> <http://www.w3.org/2000/01/rdf-schema#label> "Tagungsband"@de-DE .
->>>>>>> origin/master
 <http://purl.org/ontology/bibo/Conference> <http://www.w3.org/2000/01/rdf-schema#label> "Konferenz"@de-DE .
 <http://vivoweb.org/ontology/core#hrJobTitle> <http://www.w3.org/2000/01/rdf-schema#label> "HR Berufsbezeichnung"@de-DE .
 <http://vivoweb.org/ontology/core#CaseStudy> <http://www.w3.org/2000/01/rdf-schema#label> "Fallstudie"@de-DE .
@@ -239,7 +235,7 @@
 <http://vivoweb.org/ontology/core#Catalog> <http://www.w3.org/2000/01/rdf-schema#label> "Katalog"@de-DE .
 <http://purl.org/ontology/bibo/subsequentLegalDecision> <http://www.w3.org/2000/01/rdf-schema#label> "Späterer Rechtsspruch"@de-DE .
 <http://vivoweb.org/ontology/core#Team> <http://www.w3.org/2000/01/rdf-schema#label> "Team"@de-DE .
-<http://vivoweb.org/ontology/core#hasProceedings> <http://www.w3.org/2000/01/rdf-schema#label> "Tagungsberichte"@de-DE .
+<http://vivoweb.org/ontology/core#hasProceedings> <http://www.w3.org/2000/01/rdf-schema#label> "Tagungsband"@de-DE .
 <http://vivoweb.org/ontology/core#hasTranslation> <http://www.w3.org/2000/01/rdf-schema#label> "hat Übersetzung"@de-DE .
 <http://vivoweb.org/ontology/core#subcontractsGrant> <http://www.w3.org/2000/01/rdf-schema#label> "gewährt Förderung durch einen Untervertrag"@de-DE .
 <http://vivoweb.org/ontology/core#Laboratory> <http://www.w3.org/2000/01/rdf-schema#label> "Labor"@de-DE .
@@ -256,7 +252,7 @@
 <http://purl.org/ontology/bibo/CollectedDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Erfasstes Dokument"@de-DE .
 <http://vivoweb.org/ontology/core#Newsletter> <http://www.w3.org/2000/01/rdf-schema#label> "Newsletter"@de-DE .
 <http://vivoweb.org/ontology/core#AdviseeRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle als BetreuerIn"@de-DE .
-<http://vivoweb.org/ontology/core#proceedingsOf> <http://www.w3.org/2000/01/rdf-schema#label> "Tagungsbericht von"@de-DE .
+<http://vivoweb.org/ontology/core#proceedingsOf> <http://www.w3.org/2000/01/rdf-schema#label> "Tagungsband von"@de-DE .
 <http://vivoweb.org/ontology/core#researchOverview> <http://www.w3.org/2000/01/rdf-schema#label> "Übersicht zur Forschung"@de-DE .
 <http://vivoweb.org/ontology/core#supplementalInformation> <http://www.w3.org/2000/01/rdf-schema#label> "Ergänzende Informationen"@de-DE .
 <http://purl.org/ontology/bibo/peerReviewed> <http://www.w3.org/2000/01/rdf-schema#label> "peer reviewed"@de-DE .
